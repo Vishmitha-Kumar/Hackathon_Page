@@ -17,7 +17,7 @@ function Page() {
                 <div className='container'>
                 <h2>AVANTA FEST</h2>
                 <h4>Mode:Offline/Online</h4>
-                <h4>Sri Krishna College of Technology,Coimbatore</h4>
+                <h4>Sri Krishna College of Technology,Coimbatore,Tamilnadu</h4>
                 <h5>Start Date:1 March 2024</h5>
                 <h5>End Date:1 March 2024</h5>
                 </div>
@@ -33,7 +33,7 @@ function Page() {
                 <div className='container'>
                 <h2>AVANTA FEST</h2>
                 <h4>Mode:Offline/Online</h4>
-                <h4>Sri Krishna College of Technology,Coimbatore</h4>
+                <h4>Sri Krishna College of Technology,Coimbatore,Tamilnadu</h4>
                 <h5>Start Date:1 March 2024</h5>
                 <h5>End Date:1 March 2024</h5>
                 </div>
@@ -60,7 +60,7 @@ function Page() {
                 <div className='container'>
                 <h2>AVANTA FEST</h2>
                 <h4>Mode:Offline/Online</h4>
-                <h4>Sri Krishna College of Technology,Coimbatore</h4>
+                <h4>Sri Krishna College of Technology,Coimbatore,Tamilnadu</h4>
                 <h5>Start Date:1 March 2024</h5>
                 <h5>End Date:1 March 2024</h5>
                 </div>
@@ -75,7 +75,7 @@ function Page() {
                 <div className='container'>
                 <h2>AVANTA FEST</h2>
                 <h4>Mode:Offline/Online</h4>
-                <h4>Sri Krishna College of Technology,Coimbatore</h4>
+                <h4>Sri Krishna College of Technology,Coimbatore,Tamilnadu</h4>
                 <h5>Start Date:1 March 2024</h5>
                 <h5>End Date:1 March 2024</h5>
                 </div>
